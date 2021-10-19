@@ -1,0 +1,15 @@
+.list {
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  display: flex;
+}
+
+.text {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  font-weight: 700;
+}
