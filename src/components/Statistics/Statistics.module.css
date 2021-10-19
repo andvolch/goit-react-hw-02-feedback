@@ -1,6 +1,7 @@
 .list {
   display: flex;
   flex-direction: column;
+  padding: 5px;
 }
 
 .item {
@@ -10,6 +11,7 @@
 .text {
   display: flex;
   align-items: center;
-  margin-left: 10px;
+  font-style: italic;
+  margin: 5px 10px;
   font-weight: 700;
 }
